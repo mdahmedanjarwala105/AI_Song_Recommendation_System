@@ -1,0 +1,11 @@
+.env
+venv
+.vscode
+general.log
+*.log
+*.pyc
+.DS_Store
+tempCodeRunnerFile.py
+/media/
+/static/
+__pycache__
