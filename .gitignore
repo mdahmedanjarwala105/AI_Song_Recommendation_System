@@ -9,3 +9,11 @@ tempCodeRunnerFile.py
 /media/
 /static/
 __pycache__
+.env/
+.venv/
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.py[cod]
+*.tmp
+*.bak
+*.swp
