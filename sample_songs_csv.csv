@@ -1,0 +1,51 @@
+song_id,title,artist,genre,duration_ms,popularity,release_year
+s1,Midnight Dreams,Luna Rivera,Pop,210000,85,2023
+s2,Electric Thunder,The Voltage,Rock,195000,72,2022
+s3,Sunset Boulevard,Jazz Collective,Jazz,240000,68,2021
+s4,Digital Hearts,Synth Wave,Electronic,180000,91,2023
+s5,Country Roads Home,Jake Mitchell,Country,205000,76,2022
+s6,Ocean Waves,Calm Sounds,Ambient,300000,45,2020
+s7,Dancing in the Rain,Pop Stars United,Pop,190000,88,2023
+s8,Heavy Metal Thunder,Iron Wolves,Metal,220000,65,2021
+s9,Smooth Operator,Cool Cat Jones,R&B,195000,79,2022
+s10,Festival Nights,EDM Masters,Electronic,180000,82,2023
+s11,Acoustic Sunrise,Folk Harmony,Folk,225000,71,2021
+s12,Bass Drop Madness,DJ Remix King,Dubstep,200000,73,2022
+s13,Love Song #47,Indie Hearts,Indie,210000,69,2023
+s14,Classical Dreams,Symphony Orchestra,Classical,420000,52,2020
+s15,Reggae Sunshine,Island Vibes,Reggae,235000,67,2021
+s16,Hip Hop Revolution,MC Flow Master,Hip Hop,185000,84,2023
+s17,Blues at Midnight,Old Soul Band,Blues,255000,61,2022
+s18,Techno Universe,Cyber Beat,Techno,190000,75,2023
+s19,Punk Rock Rebellion,Chaos Theory,Punk,165000,58,2021
+s20,World Music Fusion,Global Sounds,World,280000,63,2022
+s21,Lofi Study Session,Chill Beats,Lo-fi,240000,77,2023
+s22,Gospel Light,Heavenly Voices,Gospel,210000,55,2021
+s23,Salsa Dancing,Latin Fire,Salsa,195000,70,2022
+s24,Alternative Reality,Strange Days,Alternative,200000,66,2023
+s25,Disco Fever,Retro Nights,Disco,220000,74,2021
+s26,Trap House Party,Young Money,Trap,175000,89,2023
+s27,Indie Rock Anthem,Garage Band Heroes,Indie Rock,205000,72,2022
+s28,Soul Searching,Deep Emotions,Soul,230000,64,2021
+s29,New Wave Nostalgia,80s Revival,New Wave,185000,68,2023
+s30,Grunge Revival,Flannel Shirts,Grunge,240000,59,2022
+s31,Synthpop Dreams,Neon Lights,Synthpop,190000,73,2023
+s32,Bossa Nova Sunset,Café Musicians,Bossa Nova,210000,62,2021
+s33,Progressive Rock Journey,Epic Tales,Progressive Rock,480000,56,2020
+s34,Minimalist Piano,Solo Artist,Minimalist,180000,48,2022
+s35,Experimental Sounds,Avant Garde,Experimental,320000,41,2023
+s36,Pop Punk Energy,Teenage Dreams,Pop Punk,175000,78,2022
+s37,Ambient Meditation,Peaceful Mind,Ambient,360000,51,2021
+s38,Funk Groove Machine,Funky Fresh,Funk,200000,69,2023
+s39,Singer Songwriter Tales,Acoustic Soul,Singer-Songwriter,245000,65,2022
+s40,Death Metal Chaos,Brutal Force,Death Metal,185000,47,2021
+s41,Dream Pop Clouds,Ethereal Sounds,Dream Pop,220000,60,2023
+s42,Bluegrass Morning,Mountain Folk,Bluegrass,195000,54,2022
+s43,Trance Euphoria,DJ Uplift,Trance,420000,71,2023
+s44,Ska Party Time,Upstroke Collective,Ska,190000,57,2021
+s45,Post Rock Landscape,Instrumental Journey,Post Rock,380000,53,2022
+s46,Garage Rock Rebellion,DIY Sound,Garage Rock,180000,61,2023
+s47,Dark Ambient Void,Shadow Realm,Dark Ambient,450000,39,2021
+s48,Surf Rock Summer,Beach Boys Revival,Surf Rock,175000,66,2022
+s49,Math Rock Complexity,Odd Time Signatures,Math Rock,240000,44,2023
+s50,Chillwave Sunset,Retro Future,Chillwave,210000,68,2022
