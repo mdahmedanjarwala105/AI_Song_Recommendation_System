@@ -4,14 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
+matplotlib = "*"
 notebook = "*"
 ipykernel = "*"
-pandas = "*"
-matplotlib = "*"
-numpy = "*"
-scikit-learn = "*"
+protobuf = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.13"
+python_version = "3.14"
